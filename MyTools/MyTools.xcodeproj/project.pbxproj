@@ -15,6 +15,7 @@
 		D8705A6B230AB1CB00FDD404 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D8705A6A230AB1CB00FDD404 /* main.m */; };
 		D8705A77230AB1F300FDD404 /* RFColorTool.m in Sources */ = {isa = PBXBuildFile; fileRef = D8705A75230AB1F300FDD404 /* RFColorTool.m */; };
 		D8705A7A230AB2F100FDD404 /* RFBlockBtn.m in Sources */ = {isa = PBXBuildFile; fileRef = D8705A79230AB2F100FDD404 /* RFBlockBtn.m */; };
+		D8705AA4230BDD9E00FDD404 /* PRFGCDTimer.m in Sources */ = {isa = PBXBuildFile; fileRef = D8705AA2230BDD9E00FDD404 /* PRFGCDTimer.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		D8705A75230AB1F300FDD404 /* RFColorTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RFColorTool.m; sourceTree = "<group>"; };
 		D8705A78230AB2F100FDD404 /* RFBlockBtn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RFBlockBtn.h; sourceTree = "<group>"; };
 		D8705A79230AB2F100FDD404 /* RFBlockBtn.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RFBlockBtn.m; sourceTree = "<group>"; };
+		D8705AA2230BDD9E00FDD404 /* PRFGCDTimer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PRFGCDTimer.m; sourceTree = "<group>"; };
+		D8705AA3230BDD9E00FDD404 /* PRFGCDTimer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PRFGCDTimer.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +88,8 @@
 				D8705A79230AB2F100FDD404 /* RFBlockBtn.m */,
 				D8705A73230AB1F300FDD404 /* RFColorTool.h */,
 				D8705A75230AB1F300FDD404 /* RFColorTool.m */,
+				D8705AA3230BDD9E00FDD404 /* PRFGCDTimer.h */,
+				D8705AA2230BDD9E00FDD404 /* PRFGCDTimer.m */,
 			);
 			name = PRFTools;
 			path = ../../PRFTools;
@@ -161,6 +166,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D8705A60230AB1C600FDD404 /* ViewController.m in Sources */,
+				D8705AA4230BDD9E00FDD404 /* PRFGCDTimer.m in Sources */,
 				D8705A6B230AB1CB00FDD404 /* main.m in Sources */,
 				D8705A5D230AB1C600FDD404 /* AppDelegate.m in Sources */,
 				D8705A7A230AB2F100FDD404 /* RFBlockBtn.m in Sources */,

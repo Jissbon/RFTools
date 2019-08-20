@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "PRFDdevelopTools"
   s.version      = "1.0"
-  s.summary      = "A short description of PRFDdevelopTools."
+  s.summary      = "this is myself tools"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
