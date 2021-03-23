@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D84DFE95260994DC0079AB2F /* RFTest.m in Sources */ = {isa = PBXBuildFile; fileRef = D84DFE94260994DC0079AB2F /* RFTest.m */; };
 		D8705A5D230AB1C600FDD404 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D8705A5C230AB1C600FDD404 /* AppDelegate.m */; };
 		D8705A60230AB1C600FDD404 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D8705A5F230AB1C600FDD404 /* ViewController.m */; };
 		D8705A63230AB1C600FDD404 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8705A61230AB1C600FDD404 /* Main.storyboard */; };
@@ -19,6 +20,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D84DFE93260994DC0079AB2F /* RFTest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RFTest.h; sourceTree = "<group>"; };
+		D84DFE94260994DC0079AB2F /* RFTest.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RFTest.m; sourceTree = "<group>"; };
 		D8705A58230AB1C600FDD404 /* MyTools.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyTools.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8705A5B230AB1C600FDD404 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		D8705A5C230AB1C600FDD404 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -90,6 +93,8 @@
 				D8705A75230AB1F300FDD404 /* RFColorTool.m */,
 				D8705AA3230BDD9E00FDD404 /* PRFGCDTimer.h */,
 				D8705AA2230BDD9E00FDD404 /* PRFGCDTimer.m */,
+				D84DFE93260994DC0079AB2F /* RFTest.h */,
+				D84DFE94260994DC0079AB2F /* RFTest.m */,
 			);
 			name = PRFTools;
 			path = ../../PRFTools;
@@ -171,6 +176,7 @@
 				D8705A5D230AB1C600FDD404 /* AppDelegate.m in Sources */,
 				D8705A7A230AB2F100FDD404 /* RFBlockBtn.m in Sources */,
 				D8705A77230AB1F300FDD404 /* RFColorTool.m in Sources */,
+				D84DFE95260994DC0079AB2F /* RFTest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
